@@ -1,0 +1,11 @@
+{
+  "students": [
+    "Lyle Whitmore",
+    "Meredith Whitmore",
+    "Matthew Galloway",
+    "Jacob McCurdy",
+    "Miles Stringer",
+    "Steve Shook",
+    "Jenny Murphy"
+  ]
+}
