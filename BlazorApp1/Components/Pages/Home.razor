@@ -46,7 +46,7 @@
     private string NewReader = string.Empty;
     private List<string> StudentNames = new();
     private string ErrorMessage = string.Empty;
-    private readonly string LogFolder = Path.Combine(Directory.GetCurrentDirectory(), "Components", "Assets");
+    private readonly string LogFolder = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot", "Assets");
     private readonly string LogFileName = $"Log-{DateTime.Now:yyyy-MM-dd}.txt";
 
     private readonly Random _random = new();
@@ -83,7 +83,7 @@
     {
         try
         {
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "Components", "Assets", "Config.txt");
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Assets", "Config.txt");
             if (File.Exists(filePath))
             {
                 var json = await File.ReadAllTextAsync(filePath);
@@ -101,7 +101,7 @@
     {
         try
         {
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "Components", "Assets", "Config2.txt");
+            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Assets", "Config2.txt");
             if (File.Exists(filePath))
             {
                 var json = await File.ReadAllTextAsync(filePath);
