@@ -46,7 +46,7 @@
     private string NewReader = string.Empty;
     private List<string> StudentNames = new();
     private string ErrorMessage = string.Empty;
-    private readonly string LogFolder = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot", "Assets");
+    private readonly string LogFolder = Path.Combine(Directory.GetCurrentDirectory(),"Components", "Logs");
     private readonly string LogFileName = $"Log-{DateTime.Now:yyyy-MM-dd}.txt";
 
     private readonly Random _random = new();

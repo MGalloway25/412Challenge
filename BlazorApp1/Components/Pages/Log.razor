@@ -1,0 +1,49 @@
+﻿@page "/Log"
+@using System.IO
+@using System.IO.Compression
+@rendermode InteractiveServer
+@inject IWebHostEnvironment WebHostEnvironment
+@inject IJSRuntime JSRuntime
+
+
+<h1>Admin Panel</h1>
+
+<div class="mb-3">
+    <button class="btn btn-primary" @onclick="DownloadLogFiles">Download Log Files</button>
+</div>
+
+@code {
+    private async Task DownloadLogFiles()
+    {
+        var assetsPath = Path.Combine(WebHostEnvironment.WebRootPath, "Components", "Logs");
+        var logFiles = Directory.GetFiles(assetsPath, "Log*");
+
+        if (!logFiles.Any())
+        {
+            return;
+        }
+
+        var tempZipPath = Path.Combine(Path.GetTempPath(), "logs.zip");
+        
+        if (File.Exists(tempZipPath))
+        {
+            File.Delete(tempZipPath);
+        }
+
+        using (var zipArchive = ZipFile.Open(tempZipPath, ZipArchiveMode.Create))
+        {
+            foreach (var logFile in logFiles)
+            {
+                zipArchive.CreateEntryFromFile(logFile, Path.GetFileName(logFile));
+            }
+        }
+
+        var fileBytes = await File.ReadAllBytesAsync(tempZipPath);
+        var base64String = Convert.ToBase64String(fileBytes);
+        
+        await JSRuntime.InvokeVoidAsync("downloadFileFromBase64", "LogFiles.zip", base64String);
+
+        // Clean up the temporary file
+        File.Delete(tempZipPath);
+    }
+}
