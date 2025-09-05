@@ -15,7 +15,7 @@
 @code {
     private async Task DownloadLogFiles()
     {
-        var assetsPath = Path.Combine(WebHostEnvironment.WebRootPath, "Components", "Logs");
+        var assetsPath = Path.Combine(WebHostEnvironment.ContentRootPath, "Components", "Logs");
         var logFiles = Directory.GetFiles(assetsPath, "Log*");
 
         if (!logFiles.Any())
