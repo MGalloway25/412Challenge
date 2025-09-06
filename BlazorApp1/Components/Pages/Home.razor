@@ -1,7 +1,6 @@
 ﻿@page "/"
 
 @rendermode InteractiveServer
-@inject IWebHostEnvironment WebHostEnvironment
 
 @using System.Text.Json;
 @using System.Net.Http
@@ -47,7 +46,7 @@
     private string NewReader = string.Empty;
     private List<string> StudentNames = new();
     private string ErrorMessage = string.Empty;
-    private string LogFolder = string.Empty;
+    private string LogFolder = Path.Combine(Directory.GetCurrentDirectory(), "Logs");
     private readonly string LogFileName = $"Log-{DateTime.Now:yyyy-MM-dd}.txt";
 
     private readonly Random _random = new();
@@ -60,7 +59,6 @@
     {
         if (firstRender)
         {
-            LogFolder = Path.Combine(WebHostEnvironment.ContentRootPath, "Logs");
             await FetchPassage();    
             await LoadStudentNames();
             await LoadReadersFromLog();

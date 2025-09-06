@@ -2,7 +2,6 @@
 @using System.IO
 @using System.IO.Compression
 @rendermode InteractiveServer
-@inject IWebHostEnvironment WebHostEnvironment
 @inject IJSRuntime JSRuntime
 
 
@@ -20,7 +19,7 @@
     private string LogFolder = string.Empty;
     private async Task DownloadLogFiles()
     {
-        var assetsPath = Path.Combine(WebHostEnvironment.ContentRootPath, "Logs");
+        var assetsPath = Path.Combine(Directory.GetCurrentDirectory(), "Logs");
         LogFolder = assetsPath;
         var logFiles = Directory.GetFiles(assetsPath, "Log*");
 
