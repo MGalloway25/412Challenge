@@ -60,7 +60,7 @@
     {
         if (firstRender)
         {
-            LogFolder = Path.Combine(WebHostEnvironment.ContentRootPath, "Components", "Logs");
+            LogFolder = Path.Combine(WebHostEnvironment.ContentRootPath, "Logs");
             await FetchPassage();    
             await LoadStudentNames();
             await LoadReadersFromLog();

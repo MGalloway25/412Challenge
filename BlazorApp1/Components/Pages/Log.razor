@@ -10,12 +10,18 @@
 
 <div class="mb-3">
     <button class="btn btn-primary" @onclick="DownloadLogFiles">Download Log Files</button>
+    @if (!string.IsNullOrEmpty(LogFolder))
+    {
+        <p class="mt-2">Log files are located in: <strong>@LogFolder</strong></p>
+    }
 </div>
 
 @code {
+    private string LogFolder = string.Empty;
     private async Task DownloadLogFiles()
     {
-        var assetsPath = Path.Combine(WebHostEnvironment.ContentRootPath, "Components", "Logs");
+        var assetsPath = Path.Combine(WebHostEnvironment.ContentRootPath, "Logs");
+        LogFolder = assetsPath;
         var logFiles = Directory.GetFiles(assetsPath, "Log*");
 
         if (!logFiles.Any())
