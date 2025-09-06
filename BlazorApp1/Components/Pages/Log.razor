@@ -19,7 +19,7 @@
     private string LogFolder = string.Empty;
     private async Task DownloadLogFiles()
     {
-        var assetsPath = Path.Combine(Directory.GetCurrentDirectory(), "Logs");
+        var assetsPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Logs");
         LogFolder = assetsPath;
         var logFiles = Directory.GetFiles(assetsPath, "Log*");
 
