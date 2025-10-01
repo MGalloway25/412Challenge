@@ -2,12 +2,12 @@
   {
     "BibleVerse": "John 3:16",
     "VerseText": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
-    "Date": "2025-09-03"
+    "Date": "2025-10-01"
   },
   {
     "BibleVerse": "Psalm 23:1",
     "VerseText": "The Lord is my shepherd, I lack nothing.",
-    "Date": "2025-09-04"
+    "Date": "2025-10-02"
   },
   {
     "BibleVerse": "Philippians 4:13",
