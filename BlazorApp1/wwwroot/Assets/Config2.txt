@@ -2,106 +2,106 @@
   {
     "BibleVerse": "John 3:16",
     "VerseText": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
-    "Date": "2025-10-01"
+    "Date": "2025-10-08"
   },
   {
     "BibleVerse": "Psalm 23:1",
     "VerseText": "The Lord is my shepherd, I lack nothing.",
-    "Date": "2025-10-02"
+    "Date": "2025-10-09"
   },
   {
     "BibleVerse": "Philippians 4:13",
     "VerseText": "I can do all this through him who gives me strength.",
-    "Date": "2025-09-05"
+    "Date": "2025-10-10"
   },
   {
     "BibleVerse": "Proverbs 3:5",
     "VerseText": "Trust in the Lord with all your heart and lean not on your own understanding.",
-    "Date": "2025-09-06"
+    "Date": "2025-10-11"
   },
   {
     "BibleVerse": "Romans 8:28",
     "VerseText": "And we know that in all things God works for the good of those who love him.",
-    "Date": "2025-09-07"
+    "Date": "2025-10-12"
   },
   {
     "BibleVerse": "Matthew 6:33",
     "VerseText": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
-    "Date": "2025-09-08"
+    "Date": "2025-10-13"
   },
   {
     "BibleVerse": "Isaiah 40:31",
     "VerseText": "But those who hope in the Lord will renew their strength.",
-    "Date": "2025-09-09"
+    "Date": "2025-10-14"
   },
   {
     "BibleVerse": "Joshua 1:9",
     "VerseText": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
-    "Date": "2025-09-10"
+    "Date": "2025-10-15"
   },
   {
     "BibleVerse": "1 Corinthians 13:4",
     "VerseText": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
-    "Date": "2025-09-11"
+    "Date": "2025-10-16"
   },
   {
     "BibleVerse": "Genesis 1:1",
     "VerseText": "In the beginning God created the heavens and the earth.",
-    "Date": "2025-09-12"
+    "Date": "2025-10-17"
   },
   {
     "BibleVerse": "James 1:5",
     "VerseText": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-    "Date": "2025-09-13"
+    "Date": "2025-10-18"
   },
   {
     "BibleVerse": "Matthew 11:28",
     "VerseText": "Come to me, all you who are weary and burdened, and I will give you rest.",
-    "Date": "2025-09-14"
+    "Date": "2025-10-19"
   },
   {
     "BibleVerse": "Hebrews 11:1",
     "VerseText": "Now faith is confidence in what we hope for and assurance about what we do not see.",
-    "Date": "2025-09-15"
+    "Date": "2025-10-20"
   },
   {
     "BibleVerse": "John 14:6",
     "VerseText": "Jesus answered, 'I am the way and the truth and the life.'",
-    "Date": "2025-09-16"
+    "Date": "2025-10-21"
   },
   {
     "BibleVerse": "Psalm 46:10",
     "VerseText": "Be still, and know that I am God.",
-    "Date": "2025-09-17"
+    "Date": "2025-10-22"
   },
   {
     "BibleVerse": "Romans 12:2",
     "VerseText": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind.",
-    "Date": "2025-09-18"
+    "Date": "2025-10-23"
   },
   {
     "BibleVerse": "Galatians 5:22",
     "VerseText": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness.",
-    "Date": "2025-09-19"
+    "Date": "2025-10-24"
   },
   {
     "BibleVerse": "Ephesians 2:8",
     "VerseText": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God.",
-    "Date": "2025-09-20"
+    "Date": "2025-10-25"
   },
   {
     "BibleVerse": "1 Peter 5:7",
     "VerseText": "Cast all your anxiety on him because he cares for you.",
-    "Date": "2025-09-21"
+    "Date": "2025-10-26"
   },
   {
     "BibleVerse": "Colossians 3:23",
     "VerseText": "Whatever you do, work at it with all your heart, as working for the Lord.",
-    "Date": "2025-09-22"
+    "Date": "2025-10-27"
   },
   {
     "BibleVerse": "Micah 6:8",
     "VerseText": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-    "Date": "2025-09-23"
+    "Date": "2025-10-28"
   }
 ]
