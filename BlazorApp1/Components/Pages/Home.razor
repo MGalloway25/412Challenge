@@ -1,4 +1,4 @@
-﻿@page "/"
+@page "/"
 
 @rendermode InteractiveServer
 
@@ -6,7 +6,7 @@
 @using System.Net.Http
 @using System.IO;
 
-<h1>Verse of the Day</h1>
+<h1>Verse of the Day @DateTime.Now.AddHours(-5).ToString("MM/dd/yyyy hh:mm tt")</h1>
 
 @if (!string.IsNullOrEmpty(PassageText))
 {
@@ -47,7 +47,7 @@
     private List<string> StudentNames = new();
     private string ErrorMessage = string.Empty;
     private string LogFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Logs");
-    private readonly string LogFileName = $"Log-{DateTime.Now:yyyy-MM-dd}.txt";
+    private readonly string LogFileName = $"Log-{DateTime.Now.AddHours(-5):yyyy-MM-dd}.txt";
 
     private readonly Random _random = new();
     private readonly Guid _instanceId = Guid.NewGuid();
@@ -106,7 +106,7 @@
             {
                 var json = await File.ReadAllTextAsync(filePath);
                 var passages = JsonSerializer.Deserialize<List<PassageItem>>(json);
-                var today = DateTime.Now.ToString("yyyy-MM-dd");
+                var today = DateTime.Now.AddHours(-5).ToString("yyyy-MM-dd");
                 var passage = passages?.FirstOrDefault(p => p.Date == today);
                 if (passage != null)
                 {
@@ -176,7 +176,7 @@
             }
             else
             {
-                logEntries.Add(new LogEntry { Name = name, Timestamp = DateTime.Now });
+                logEntries.Add(new LogEntry { Name = name, Timestamp = DateTime.Now.AddHours(-5) });
                 var newJson = JsonSerializer.Serialize(logEntries, new JsonSerializerOptions { WriteIndented = true });
                 await File.WriteAllTextAsync(logPath, newJson);
             }
