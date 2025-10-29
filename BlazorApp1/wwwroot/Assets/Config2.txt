@@ -1,107 +1,167 @@
 [
   {
-    "BibleVerse": "John 3:16",
-    "VerseText": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
-    "Date": "2025-10-08"
+    "BibleVerse": "2 Timothy 1:7",
+    "VerseText": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
+    "Date": "2025-10-29"
   },
   {
-    "BibleVerse": "Psalm 23:1",
-    "VerseText": "The Lord is my shepherd, I lack nothing.",
-    "Date": "2025-10-09"
+    "BibleVerse": "Lamentations 3:22-23",
+    "VerseText": "Because of the Lord’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness.",
+    "Date": "2025-10-30"
   },
   {
-    "BibleVerse": "Philippians 4:13",
-    "VerseText": "I can do all this through him who gives me strength.",
-    "Date": "2025-10-10"
+    "BibleVerse": "1 John 4:19",
+    "VerseText": "We love because he first loved us.",
+    "Date": "2025-10-31"
   },
   {
-    "BibleVerse": "Proverbs 3:5",
-    "VerseText": "Trust in the Lord with all your heart and lean not on your own understanding.",
-    "Date": "2025-10-11"
+    "BibleVerse": "Psalm 121:1-2",
+    "VerseText": "I lift up my eyes to the mountains—where does my help come from? My help comes from the Lord, the Maker of heaven and earth.",
+    "Date": "2025-11-01"
   },
   {
-    "BibleVerse": "Romans 8:28",
-    "VerseText": "And we know that in all things God works for the good of those who love him.",
-    "Date": "2025-10-12"
+    "BibleVerse": "Isaiah 41:10",
+    "VerseText": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "Date": "2025-11-02"
   },
   {
-    "BibleVerse": "Matthew 6:33",
-    "VerseText": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
-    "Date": "2025-10-13"
+    "BibleVerse": "Matthew 5:14",
+    "VerseText": "You are the light of the world. A town built on a hill cannot be hidden.",
+    "Date": "2025-11-03"
   },
   {
-    "BibleVerse": "Isaiah 40:31",
-    "VerseText": "But those who hope in the Lord will renew their strength.",
-    "Date": "2025-10-14"
+    "BibleVerse": "John 8:12",
+    "VerseText": "I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.",
+    "Date": "2025-11-04"
   },
   {
-    "BibleVerse": "Joshua 1:9",
-    "VerseText": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
-    "Date": "2025-10-15"
+    "BibleVerse": "Psalm 19:14",
+    "VerseText": "May these words of my mouth and this meditation of my heart be pleasing in your sight, Lord, my Rock and my Redeemer.",
+    "Date": "2025-11-05"
   },
   {
-    "BibleVerse": "1 Corinthians 13:4",
-    "VerseText": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
-    "Date": "2025-10-16"
+    "BibleVerse": "Romans 15:13",
+    "VerseText": "May the God of hope fill you with all joy and peace as you trust in him.",
+    "Date": "2025-11-06"
   },
   {
-    "BibleVerse": "Genesis 1:1",
-    "VerseText": "In the beginning God created the heavens and the earth.",
-    "Date": "2025-10-17"
+    "BibleVerse": "Deuteronomy 31:6",
+    "VerseText": "Be strong and courageous. Do not be afraid or terrified because of them, for the Lord your God goes with you.",
+    "Date": "2025-11-07"
   },
   {
-    "BibleVerse": "James 1:5",
-    "VerseText": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
-    "Date": "2025-10-18"
+    "BibleVerse": "Psalm 34:8",
+    "VerseText": "Taste and see that the Lord is good; blessed is the one who takes refuge in him.",
+    "Date": "2025-11-08"
   },
   {
-    "BibleVerse": "Matthew 11:28",
-    "VerseText": "Come to me, all you who are weary and burdened, and I will give you rest.",
-    "Date": "2025-10-19"
+    "BibleVerse": "1 Thessalonians 5:16-18",
+    "VerseText": "Rejoice always, pray continually, give thanks in all circumstances; for this is God’s will for you in Christ Jesus.",
+    "Date": "2025-11-09"
   },
   {
-    "BibleVerse": "Hebrews 11:1",
-    "VerseText": "Now faith is confidence in what we hope for and assurance about what we do not see.",
-    "Date": "2025-10-20"
+    "BibleVerse": "Isaiah 26:3",
+    "VerseText": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "Date": "2025-11-10"
   },
   {
-    "BibleVerse": "John 14:6",
-    "VerseText": "Jesus answered, 'I am the way and the truth and the life.'",
-    "Date": "2025-10-21"
+    "BibleVerse": "Proverbs 18:10",
+    "VerseText": "The name of the Lord is a fortified tower; the righteous run to it and are safe.",
+    "Date": "2025-11-11"
   },
   {
-    "BibleVerse": "Psalm 46:10",
-    "VerseText": "Be still, and know that I am God.",
-    "Date": "2025-10-22"
+    "BibleVerse": "2 Corinthians 5:7",
+    "VerseText": "For we live by faith, not by sight.",
+    "Date": "2025-11-12"
   },
   {
-    "BibleVerse": "Romans 12:2",
-    "VerseText": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind.",
-    "Date": "2025-10-23"
+    "BibleVerse": "Psalm 37:4",
+    "VerseText": "Take delight in the Lord, and he will give you the desires of your heart.",
+    "Date": "2025-11-13"
   },
   {
-    "BibleVerse": "Galatians 5:22",
-    "VerseText": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness.",
-    "Date": "2025-10-24"
+    "BibleVerse": "Jeremiah 29:11",
+    "VerseText": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you.",
+    "Date": "2025-11-14"
   },
   {
-    "BibleVerse": "Ephesians 2:8",
-    "VerseText": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God.",
-    "Date": "2025-10-25"
+    "BibleVerse": "Matthew 7:7",
+    "VerseText": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+    "Date": "2025-11-15"
   },
   {
-    "BibleVerse": "1 Peter 5:7",
-    "VerseText": "Cast all your anxiety on him because he cares for you.",
-    "Date": "2025-10-26"
+    "BibleVerse": "Psalm 27:1",
+    "VerseText": "The Lord is my light and my salvation—whom shall I fear?",
+    "Date": "2025-11-16"
   },
   {
-    "BibleVerse": "Colossians 3:23",
-    "VerseText": "Whatever you do, work at it with all your heart, as working for the Lord.",
-    "Date": "2025-10-27"
+    "BibleVerse": "Colossians 3:2",
+    "VerseText": "Set your minds on things above, not on earthly things.",
+    "Date": "2025-11-17"
   },
   {
-    "BibleVerse": "Micah 6:8",
-    "VerseText": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.",
-    "Date": "2025-10-28"
+    "BibleVerse": "James 4:8",
+    "VerseText": "Come near to God and he will come near to you.",
+    "Date": "2025-11-18"
+  },
+  {
+    "BibleVerse": "1 Chronicles 16:11",
+    "VerseText": "Look to the Lord and his strength; seek his face always.",
+    "Date": "2025-11-19"
+  },
+  {
+    "BibleVerse": "Proverbs 4:23",
+    "VerseText": "Above all else, guard your heart, for everything you do flows from it.",
+    "Date": "2025-11-20"
+  },
+  {
+    "BibleVerse": "John 15:5",
+    "VerseText": "I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit.",
+    "Date": "2025-11-21"
+  },
+  {
+    "BibleVerse": "Psalm 100:4",
+    "VerseText": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.",
+    "Date": "2025-11-22"
+  },
+  {
+    "BibleVerse": "Isaiah 43:2",
+    "VerseText": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you.",
+    "Date": "2025-11-23"
+  },
+  {
+    "BibleVerse": "Romans 5:8",
+    "VerseText": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "Date": "2025-11-24"
+  },
+  {
+    "BibleVerse": "Psalm 55:22",
+    "VerseText": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.",
+    "Date": "2025-11-25"
+  },
+  {
+    "BibleVerse": "John 10:10",
+    "VerseText": "I have come that they may have life, and have it to the full.",
+    "Date": "2025-11-26"
+  },
+  {
+    "BibleVerse": "2 Corinthians 12:9",
+    "VerseText": "My grace is sufficient for you, for my power is made perfect in weakness.",
+    "Date": "2025-11-27"
+  },
+  {
+    "BibleVerse": "Psalm 139:14",
+    "VerseText": "I praise you because I am fearfully and wonderfully made; your works are wonderful.",
+    "Date": "2025-11-28"
+  },
+  {
+    "BibleVerse": "Galatians 6:9",
+    "VerseText": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.",
+    "Date": "2025-11-29"
+  },
+  {
+    "BibleVerse": "Revelation 3:20",
+    "VerseText": "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in.",
+    "Date": "2025-11-30"
   }
 ]
