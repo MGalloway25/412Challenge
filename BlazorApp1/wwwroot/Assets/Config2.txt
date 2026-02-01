@@ -1,5 +1,5 @@
 [
-  {
+{
     "BibleVerse": "2 Timothy 1:7",
     "VerseText": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.",
     "Date": "2025-10-29"
@@ -225,5 +225,300 @@
   { "BibleVerse": "John 3:30", "VerseText": "He must become greater; I must become less.", "Date": "2026-01-28" },
   { "BibleVerse": "Psalm 40:1", "VerseText": "I waited patiently for the Lord; he turned to me and heard my cry.", "Date": "2026-01-29" },
   { "BibleVerse": "Matthew 24:35", "VerseText": "Heaven and earth will pass away, but my words will never pass away.", "Date": "2026-01-30" },
-  { "BibleVerse": "Psalm 23:6", "VerseText": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.", "Date": "2026-01-31" }
+  { "BibleVerse": "Psalm 23:6", "VerseText": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.", "Date": "2026-01-31" },
+  {
+    "BibleVerse": "Joshua 1:9",
+    "VerseText": "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "Date": "2026-02-01"
+  },
+  {
+    "BibleVerse": "Psalm 118:24",
+    "VerseText": "This is the day the Lord has made; let us rejoice and be glad in it.",
+    "Date": "2026-02-02"
+  },
+  {
+    "BibleVerse": "Philippians 4:13",
+    "VerseText": "I can do all things through Christ who strengthens me.",
+    "Date": "2026-02-03"
+  },
+  {
+    "BibleVerse": "Proverbs 3:5-6",
+    "VerseText": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+    "Date": "2026-02-04"
+  },
+  {
+    "BibleVerse": "Matthew 11:28",
+    "VerseText": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "Date": "2026-02-05"
+  },
+  {
+    "BibleVerse": "Psalm 46:10",
+    "VerseText": "Be still, and know that I am God.",
+    "Date": "2026-02-06"
+  },
+  {
+    "BibleVerse": "Romans 8:28",
+    "VerseText": "And we know that in all things God works for the good of those who love him.",
+    "Date": "2026-02-07"
+  },
+  {
+    "BibleVerse": "1 Corinthians 16:14",
+    "VerseText": "Do everything in love.",
+    "Date": "2026-02-08"
+  },
+  {
+    "BibleVerse": "Psalm 56:3",
+    "VerseText": "When I am afraid, I put my trust in you.",
+    "Date": "2026-02-09"
+  },
+  {
+    "BibleVerse": "John 3:16",
+    "VerseText": "For God so loved the world that he gave his one and only Son.",
+    "Date": "2026-02-10"
+  },
+  {
+    "BibleVerse": "Philippians 4:6",
+    "VerseText": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "Date": "2026-02-11"
+  },
+  {
+    "BibleVerse": "Psalm 1:1-2",
+    "VerseText": "Blessed is the one who does not walk in step with the wicked... but whose delight is in the law of the Lord.",
+    "Date": "2026-02-12"
+  },
+  {
+    "BibleVerse": "James 1:5",
+    "VerseText": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault.",
+    "Date": "2026-02-13"
+  },
+  {
+    "BibleVerse": "Psalm 73:26",
+    "VerseText": "My flesh and my heart may fail, but God is the strength of my heart and my portion forever.",
+    "Date": "2026-02-14"
+  },
+  {
+    "BibleVerse": "1 Peter 1:3",
+    "VerseText": "In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ.",
+    "Date": "2026-02-15"
+  },
+  {
+    "BibleVerse": "Isaiah 40:31",
+    "VerseText": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles.",
+    "Date": "2026-02-16"
+  },
+  {
+    "BibleVerse": "Psalm 119:11",
+    "VerseText": "I have hidden your word in my heart that I might not sin against you.",
+    "Date": "2026-02-17"
+  },
+  {
+    "BibleVerse": "Romans 8:38-39",
+    "VerseText": "For I am convinced that neither death nor life... will be able to separate us from the love of God.",
+    "Date": "2026-02-18"
+  },
+  {
+    "BibleVerse": "Matthew 6:33",
+    "VerseText": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "Date": "2026-02-19"
+  },
+  {
+    "BibleVerse": "Psalm 28:7",
+    "VerseText": "The Lord is my strength and my shield; my heart trusts in him, and he helps me.",
+    "Date": "2026-02-20"
+  },
+  {
+    "BibleVerse": "Hebrews 13:8",
+    "VerseText": "Jesus Christ is the same yesterday and today and forever.",
+    "Date": "2026-02-21"
+  },
+  {
+    "BibleVerse": "Proverbs 16:3",
+    "VerseText": "Commit to the Lord whatever you do, and he will establish your plans.",
+    "Date": "2026-02-22"
+  },
+  {
+    "BibleVerse": "Psalm 63:3",
+    "VerseText": "Because your love is better than life, my lips will glorify you.",
+    "Date": "2026-02-23"
+  },
+  {
+    "BibleVerse": "John 6:35",
+    "VerseText": "Then Jesus declared, 'I am the bread of life.'",
+    "Date": "2026-02-24"
+  },
+  {
+    "BibleVerse": "Romans 14:19",
+    "VerseText": "Let us therefore make every effort to do what leads to peace and to mutual edification.",
+    "Date": "2026-02-25"
+  },
+  {
+    "BibleVerse": "Psalm 4:8",
+    "VerseText": "In peace I will lie down and sleep, for you alone, Lord, make me dwell in safety.",
+    "Date": "2026-02-26"
+  },
+  {
+    "BibleVerse": "1 Corinthians 10:31",
+    "VerseText": "So whether you eat or drink or whatever you do, do it all for the glory of God.",
+    "Date": "2026-02-27"
+  },
+  {
+    "BibleVerse": "Psalm 145:18",
+    "VerseText": "The Lord is near to all who call on him.",
+    "Date": "2026-02-28"
+  },
+  {
+    "BibleVerse": "Ephesians 4:32",
+    "VerseText": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.",
+    "Date": "2026-03-01"
+  },
+  {
+    "BibleVerse": "Psalm 25:4-5",
+    "VerseText": "Show me your ways, Lord, teach me your paths. Guide me in your truth and teach me.",
+    "Date": "2026-03-02"
+  },
+  {
+    "BibleVerse": "Philippians 1:6",
+    "VerseText": "He who began a good work in you will carry it on to completion.",
+    "Date": "2026-03-03"
+  },
+  {
+    "BibleVerse": "Psalm 86:11",
+    "VerseText": "Teach me your way, Lord, that I may rely on your faithfulness.",
+    "Date": "2026-03-04"
+  },
+  {
+    "BibleVerse": "2 Corinthians 4:16",
+    "VerseText": "Though outwardly we are wasting away, yet inwardly we are being renewed day by day.",
+    "Date": "2026-03-05"
+  },
+  {
+    "BibleVerse": "Psalm 30:5",
+    "VerseText": "Weeping may stay for the night, but rejoicing comes in the morning.",
+    "Date": "2026-03-06"
+  },
+  {
+    "BibleVerse": "John 4:24",
+    "VerseText": "God is spirit, and his worshipers must worship in the Spirit and in truth.",
+    "Date": "2026-03-07"
+  },
+  {
+    "BibleVerse": "Psalm 19:7",
+    "VerseText": "The law of the Lord is perfect, refreshing the soul.",
+    "Date": "2026-03-08"
+  },
+  {
+    "BibleVerse": "1 John 1:9",
+    "VerseText": "If we confess our sins, he is faithful and just and will forgive us our sins.",
+    "Date": "2026-03-09"
+  },
+  {
+    "BibleVerse": "Psalm 42:11",
+    "VerseText": "Why, my soul, are you downcast? Put your hope in God.",
+    "Date": "2026-03-10"
+  },
+  {
+    "BibleVerse": "Hebrews 10:23",
+    "VerseText": "Let us hold unswervingly to the hope we profess, for he who promised is faithful.",
+    "Date": "2026-03-11"
+  },
+  {
+    "BibleVerse": "Psalm 103:2",
+    "VerseText": "Praise the Lord, my soul, and forget not all his benefits.",
+    "Date": "2026-03-12"
+  },
+  {
+    "BibleVerse": "John 15:12",
+    "VerseText": "My command is this: Love each other as I have loved you.",
+    "Date": "2026-03-13"
+  },
+  {
+    "BibleVerse": "Psalm 121:7-8",
+    "VerseText": "The Lord will keep you from all harm—he will watch over your life.",
+    "Date": "2026-03-14"
+  },
+  {
+    "BibleVerse": "Romans 8:1",
+    "VerseText": "Therefore, there is now no condemnation for those who are in Christ Jesus.",
+    "Date": "2026-03-15"
+  },
+  {
+    "BibleVerse": "Psalm 37:7",
+    "VerseText": "Be still before the Lord and wait patiently for him.",
+    "Date": "2026-03-16"
+  },
+  {
+    "BibleVerse": "1 Corinthians 13:13",
+    "VerseText": "And now these three remain: faith, hope and love. But the greatest of these is love.",
+    "Date": "2026-03-17"
+  },
+  {
+    "BibleVerse": "Psalm 9:9",
+    "VerseText": "The Lord is a refuge for the oppressed, a stronghold in times of trouble.",
+    "Date": "2026-03-18"
+  },
+  {
+    "BibleVerse": "John 7:38",
+    "VerseText": "Whoever believes in me, as Scripture has said, rivers of living water will flow from within them.",
+    "Date": "2026-03-19"
+  },
+  {
+    "BibleVerse": "Psalm 33:4",
+    "VerseText": "For the word of the Lord is right and true; he is faithful in all he does.",
+    "Date": "2026-03-20"
+  },
+  {
+    "BibleVerse": "Galatians 2:20",
+    "VerseText": "I have been crucified with Christ and I no longer live, but Christ lives in me.",
+    "Date": "2026-03-21"
+  },
+  {
+    "BibleVerse": "Psalm 145:9",
+    "VerseText": "The Lord is good to all; he has compassion on all he has made.",
+    "Date": "2026-03-22"
+  },
+  {
+    "BibleVerse": "John 12:46",
+    "VerseText": "I have come into the world as a light, so that no one who believes in me should stay in darkness.",
+    "Date": "2026-03-23"
+  },
+  {
+    "BibleVerse": "Psalm 27:14",
+    "VerseText": "Wait for the Lord; be strong and take heart and wait for the Lord.",
+    "Date": "2026-03-24"
+  },
+  {
+    "BibleVerse": "Romans 6:23",
+    "VerseText": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+    "Date": "2026-03-25"
+  },
+  {
+    "BibleVerse": "Psalm 118:6",
+    "VerseText": "The Lord is with me; I will not be afraid.",
+    "Date": "2026-03-26"
+  },
+  {
+    "BibleVerse": "1 John 5:14",
+    "VerseText": "This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us.",
+    "Date": "2026-03-27"
+  },
+  {
+    "BibleVerse": "Psalm 20:7",
+    "VerseText": "Some trust in chariots and some in horses, but we trust in the name of the Lord our God.",
+    "Date": "2026-03-28"
+  },
+  {
+    "BibleVerse": "John 1:5",
+    "VerseText": "The light shines in the darkness, and the darkness has not overcome it.",
+    "Date": "2026-03-29"
+  },
+  {
+    "BibleVerse": "Psalm 34:4",
+    "VerseText": "I sought the Lord, and he answered me; he delivered me from all my fears.",
+    "Date": "2026-03-30"
+  },
+  {
+    "BibleVerse": "Romans 11:36",
+    "VerseText": "For from him and through him and for him are all things. To him be the glory forever.",
+    "Date": "2026-03-31"
+  }
 ]
